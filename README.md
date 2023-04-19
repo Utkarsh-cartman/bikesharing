@@ -4,7 +4,7 @@ Project description
 Find the best predictive model to analyses the bike sharing data and find which variables are significant in predicting the demand for shared bikes .Also find out how these variable affect the bike demand.
 
 Content
-1: Importing Libraries
+1: Importing Libraries/n
 2: Reading Dataset and Understanding Data
 3: Cleaning Data
 4:EDA
